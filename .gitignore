@@ -42,6 +42,7 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 build/
+.bat
 
 ### VS Code ###
 .vscode/
